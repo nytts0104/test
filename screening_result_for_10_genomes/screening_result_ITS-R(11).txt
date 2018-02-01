@@ -1,0 +1,668 @@
+>CP020143.1 Saccharomyces cerevisiae strain DBVPG6044 chromosome IV, complete sequence
+>CP020143.1 Saccharomyces cerevisiae strain DBVPG6044 chromosome IV, complete sequence
+>CP004678.2 Saccharomyces cerevisiae YJM627 chromosome IV sequence
+>CP004678.2 Saccharomyces cerevisiae YJM627 chromosome IV sequence
+>CP004727.2 Saccharomyces cerevisiae YJM1401 chromosome IV sequence
+>CP004727.2 Saccharomyces cerevisiae YJM1401 chromosome IV sequence
+>CP004735.2 Saccharomyces cerevisiae YJM1439 chromosome IV sequence
+>CP004735.2 Saccharomyces cerevisiae YJM1439 chromosome IV sequence
+>CP004703.2 Saccharomyces cerevisiae YJM1248 chromosome IV sequence
+>CP004703.2 Saccharomyces cerevisiae YJM1248 chromosome IV sequence
+>CP004732.2 Saccharomyces cerevisiae YJM1419 chromosome IV sequence
+>CP004732.2 Saccharomyces cerevisiae YJM1419 chromosome IV sequence
+>CP004662.2 Saccharomyces cerevisiae YJM195 chromosome IV sequence
+>CP004662.2 Saccharomyces cerevisiae YJM195 chromosome IV sequence
+>CP011080.1 Saccharomyces cerevisiae strain UOA_M2 chromosome 2 sequence
+>CP011080.1 Saccharomyces cerevisiae strain UOA_M2 chromosome 2 sequence
+>CP011080.1 Saccharomyces cerevisiae strain UOA_M2 chromosome 2 sequence
+>CP011080.1 Saccharomyces cerevisiae strain UOA_M2 chromosome 2 sequence
+>XR_001045646.1 Cryptococcus neoformans var. grubii H99 hypothetical RNA other
+>XR_001045646.1 Cryptococcus neoformans var. grubii H99 hypothetical RNA other
+>CP004737.1 Saccharomyces cerevisiae YJM1444 chromosome IV sequence
+>CP004737.1 Saccharomyces cerevisiae YJM1444 chromosome IV sequence
+>XM_003069081.1 Coccidioides posadasii C735 delta SOWgp kinesin, putative, mRNA
+>XM_003069081.1 Coccidioides posadasii C735 delta SOWgp kinesin, putative, mRNA
+>NM_001178510.1 Saccharomyces cerevisiae S288c Tos1p (TOS1), partial mRNA
+>NM_001178510.1 Saccharomyces cerevisiae S288c Tos1p (TOS1), partial mRNA
+>CP022967.1 Saccharomyces cerevisiae strain CEN.PK113-7D chromosome II, complete sequence
+>CP022967.1 Saccharomyces cerevisiae strain CEN.PK113-7D chromosome II, complete sequence
+>CP022967.1 Saccharomyces cerevisiae strain CEN.PK113-7D chromosome II, complete sequence
+>CP022967.1 Saccharomyces cerevisiae strain CEN.PK113-7D chromosome II, complete sequence
+>CP022324.1 Cryptococcus neoformans var. grubii chromosome 4, complete sequence
+>CP022324.1 Cryptococcus neoformans var. grubii chromosome 4, complete sequence
+>CP013608.1 Saccharomyces cerevisiae synthetic construct strain YS031 chromosome synIIv1.2, complete sequence
+>CP013608.1 Saccharomyces cerevisiae synthetic construct strain YS031 chromosome synIIv1.2, complete sequence
+>CP013608.1 Saccharomyces cerevisiae synthetic construct strain YS031 chromosome synIIv1.2, complete sequence
+>CP013608.1 Saccharomyces cerevisiae synthetic construct strain YS031 chromosome synIIv1.2, complete sequence
+>CP020226.1 Saccharomyces cerevisiae strain UWOPS03-461.4 chromosome II, complete sequence
+>CP020226.1 Saccharomyces cerevisiae strain UWOPS03-461.4 chromosome II, complete sequence
+>CP020226.1 Saccharomyces cerevisiae strain UWOPS03-461.4 chromosome II, complete sequence
+>CP020226.1 Saccharomyces cerevisiae strain UWOPS03-461.4 chromosome II, complete sequence
+>CP020209.1 Saccharomyces cerevisiae strain YPS128 chromosome II, complete sequence
+>CP020209.1 Saccharomyces cerevisiae strain YPS128 chromosome II, complete sequence
+>CP020209.1 Saccharomyces cerevisiae strain YPS128 chromosome II, complete sequence
+>CP020209.1 Saccharomyces cerevisiae strain YPS128 chromosome II, complete sequence
+>CP020192.1 Saccharomyces cerevisiae strain Y12 chromosome II, complete sequence
+>CP020192.1 Saccharomyces cerevisiae strain Y12 chromosome II, complete sequence
+>CP020192.1 Saccharomyces cerevisiae strain Y12 chromosome II, complete sequence
+>CP020192.1 Saccharomyces cerevisiae strain Y12 chromosome II, complete sequence
+>CP020175.1 Saccharomyces cerevisiae strain SK1 chromosome II, complete sequence
+>CP020175.1 Saccharomyces cerevisiae strain SK1 chromosome II, complete sequence
+>CP020175.1 Saccharomyces cerevisiae strain SK1 chromosome II, complete sequence
+>CP020175.1 Saccharomyces cerevisiae strain SK1 chromosome II, complete sequence
+>CP020158.1 Saccharomyces cerevisiae strain DBVPG6765 chromosome II, complete sequence
+>CP020158.1 Saccharomyces cerevisiae strain DBVPG6765 chromosome II, complete sequence
+>CP020158.1 Saccharomyces cerevisiae strain DBVPG6765 chromosome II, complete sequence
+>CP020158.1 Saccharomyces cerevisiae strain DBVPG6765 chromosome II, complete sequence
+>CP020141.1 Saccharomyces cerevisiae strain DBVPG6044 chromosome II, complete sequence
+>CP020141.1 Saccharomyces cerevisiae strain DBVPG6044 chromosome II, complete sequence
+>CP020141.1 Saccharomyces cerevisiae strain DBVPG6044 chromosome II, complete sequence
+>CP020141.1 Saccharomyces cerevisiae strain DBVPG6044 chromosome II, complete sequence
+>CP020124.1 Saccharomyces cerevisiae strain S288c chromosome II, complete sequence
+>CP020124.1 Saccharomyces cerevisiae strain S288c chromosome II, complete sequence
+>CP020124.1 Saccharomyces cerevisiae strain S288c chromosome II, complete sequence
+>CP020124.1 Saccharomyces cerevisiae strain S288c chromosome II, complete sequence
+>CP004658.2 Saccharomyces cerevisiae YJM1400 chromosome II genomic sequence
+>CP004658.2 Saccharomyces cerevisiae YJM1400 chromosome II genomic sequence
+>CP004658.2 Saccharomyces cerevisiae YJM1400 chromosome II genomic sequence
+>CP004658.2 Saccharomyces cerevisiae YJM1400 chromosome II genomic sequence
+>CP004648.2 Saccharomyces cerevisiae YJM1355 chromosome II genomic sequence
+>CP004648.2 Saccharomyces cerevisiae YJM1355 chromosome II genomic sequence
+>CP004648.2 Saccharomyces cerevisiae YJM1355 chromosome II genomic sequence
+>CP004648.2 Saccharomyces cerevisiae YJM1355 chromosome II genomic sequence
+>CP004638.2 Saccharomyces cerevisiae YJM1273 chromosome II genomic sequence
+>CP004638.2 Saccharomyces cerevisiae YJM1273 chromosome II genomic sequence
+>CP004638.2 Saccharomyces cerevisiae YJM1273 chromosome II genomic sequence
+>CP004638.2 Saccharomyces cerevisiae YJM1273 chromosome II genomic sequence
+>CP004628.2 Saccharomyces cerevisiae YJM470 chromosome II genomic sequence
+>CP004628.2 Saccharomyces cerevisiae YJM470 chromosome II genomic sequence
+>CP004628.2 Saccharomyces cerevisiae YJM470 chromosome II genomic sequence
+>CP004628.2 Saccharomyces cerevisiae YJM470 chromosome II genomic sequence
+>CP004618.2 Saccharomyces cerevisiae YJM248 chromosome II genomic sequence
+>CP004618.2 Saccharomyces cerevisiae YJM248 chromosome II genomic sequence
+>CP004618.2 Saccharomyces cerevisiae YJM248 chromosome II genomic sequence
+>CP004618.2 Saccharomyces cerevisiae YJM248 chromosome II genomic sequence
+>CP004608.2 Saccharomyces cerevisiae YJM1202 chromosome II genomic sequence
+>CP004608.2 Saccharomyces cerevisiae YJM1202 chromosome II genomic sequence
+>CP004608.2 Saccharomyces cerevisiae YJM1202 chromosome II genomic sequence
+>CP004608.2 Saccharomyces cerevisiae YJM1202 chromosome II genomic sequence
+>CP004598.2 Saccharomyces cerevisiae YJM984 chromosome II genomic sequence
+>CP004598.2 Saccharomyces cerevisiae YJM984 chromosome II genomic sequence
+>CP004598.2 Saccharomyces cerevisiae YJM984 chromosome II genomic sequence
+>CP004598.2 Saccharomyces cerevisiae YJM984 chromosome II genomic sequence
+>CP004588.2 Saccharomyces cerevisiae YJM1573 chromosome II genomic sequence
+>CP004588.2 Saccharomyces cerevisiae YJM1573 chromosome II genomic sequence
+>CP004588.2 Saccharomyces cerevisiae YJM1573 chromosome II genomic sequence
+>CP004588.2 Saccharomyces cerevisiae YJM1573 chromosome II genomic sequence
+>CP004578.2 Saccharomyces cerevisiae YJM1447 chromosome II genomic sequence
+>CP004578.2 Saccharomyces cerevisiae YJM1447 chromosome II genomic sequence
+>CP004578.2 Saccharomyces cerevisiae YJM1447 chromosome II genomic sequence
+>CP004578.2 Saccharomyces cerevisiae YJM1447 chromosome II genomic sequence
+>CP004568.2 Saccharomyces cerevisiae YJM1402 chromosome II genomic sequence
+>CP004568.2 Saccharomyces cerevisiae YJM1402 chromosome II genomic sequence
+>CP004568.2 Saccharomyces cerevisiae YJM1402 chromosome II genomic sequence
+>CP004568.2 Saccharomyces cerevisiae YJM1402 chromosome II genomic sequence
+>XM_018402411.1 Fusarium oxysporum f. sp. lycopersici 4287 hypothetical protein mRNA
+>XM_018402411.1 Fusarium oxysporum f. sp. lycopersici 4287 hypothetical protein mRNA
+>CP004657.2 Saccharomyces cerevisiae YJM1399 chromosome II genomic sequence
+>CP004657.2 Saccharomyces cerevisiae YJM1399 chromosome II genomic sequence
+>CP004657.2 Saccharomyces cerevisiae YJM1399 chromosome II genomic sequence
+>CP004657.2 Saccharomyces cerevisiae YJM1399 chromosome II genomic sequence
+>CP004647.2 Saccharomyces cerevisiae YJM1342 chromosome II genomic sequence
+>CP004647.2 Saccharomyces cerevisiae YJM1342 chromosome II genomic sequence
+>CP004647.2 Saccharomyces cerevisiae YJM1342 chromosome II genomic sequence
+>CP004647.2 Saccharomyces cerevisiae YJM1342 chromosome II genomic sequence
+>CP004637.2 Saccharomyces cerevisiae YJM1252 chromosome II genomic sequence
+>CP004637.2 Saccharomyces cerevisiae YJM1252 chromosome II genomic sequence
+>CP004637.2 Saccharomyces cerevisiae YJM1252 chromosome II genomic sequence
+>CP004637.2 Saccharomyces cerevisiae YJM1252 chromosome II genomic sequence
+>CP004627.2 Saccharomyces cerevisiae YJM456 chromosome II genomic sequence
+>CP004627.2 Saccharomyces cerevisiae YJM456 chromosome II genomic sequence
+>CP004627.2 Saccharomyces cerevisiae YJM456 chromosome II genomic sequence
+>CP004627.2 Saccharomyces cerevisiae YJM456 chromosome II genomic sequence
+>CP004617.2 Saccharomyces cerevisiae YJM244 chromosome II genomic sequence
+>CP004617.2 Saccharomyces cerevisiae YJM244 chromosome II genomic sequence
+>CP004617.2 Saccharomyces cerevisiae YJM244 chromosome II genomic sequence
+>CP004617.2 Saccharomyces cerevisiae YJM244 chromosome II genomic sequence
+>CP004607.2 Saccharomyces cerevisiae YJM1199 chromosome II genomic sequence
+>CP004607.2 Saccharomyces cerevisiae YJM1199 chromosome II genomic sequence
+>CP004607.2 Saccharomyces cerevisiae YJM1199 chromosome II genomic sequence
+>CP004607.2 Saccharomyces cerevisiae YJM1199 chromosome II genomic sequence
+>CP004597.2 Saccharomyces cerevisiae YJM981 chromosome II genomic sequence
+>CP004597.2 Saccharomyces cerevisiae YJM981 chromosome II genomic sequence
+>CP004597.2 Saccharomyces cerevisiae YJM981 chromosome II genomic sequence
+>CP004597.2 Saccharomyces cerevisiae YJM981 chromosome II genomic sequence
+>CP004587.2 Saccharomyces cerevisiae YJM1549 chromosome II genomic sequence
+>CP004587.2 Saccharomyces cerevisiae YJM1549 chromosome II genomic sequence
+>CP004587.2 Saccharomyces cerevisiae YJM1549 chromosome II genomic sequence
+>CP004587.2 Saccharomyces cerevisiae YJM1549 chromosome II genomic sequence
+>CP004577.2 Saccharomyces cerevisiae YJM1444 chromosome II genomic sequence
+>CP004577.2 Saccharomyces cerevisiae YJM1444 chromosome II genomic sequence
+>CP004577.2 Saccharomyces cerevisiae YJM1444 chromosome II genomic sequence
+>CP004577.2 Saccharomyces cerevisiae YJM1444 chromosome II genomic sequence
+>CP004656.2 Saccharomyces cerevisiae YJM1389 chromosome II genomic sequence
+>CP004656.2 Saccharomyces cerevisiae YJM1389 chromosome II genomic sequence
+>CP004656.2 Saccharomyces cerevisiae YJM1389 chromosome II genomic sequence
+>CP004656.2 Saccharomyces cerevisiae YJM1389 chromosome II genomic sequence
+>CP004646.2 Saccharomyces cerevisiae YJM1341 chromosome II genomic sequence
+>CP004646.2 Saccharomyces cerevisiae YJM1341 chromosome II genomic sequence
+>CP004646.2 Saccharomyces cerevisiae YJM1341 chromosome II genomic sequence
+>CP004646.2 Saccharomyces cerevisiae YJM1341 chromosome II genomic sequence
+>CP004636.2 Saccharomyces cerevisiae YJM689 chromosome II genomic sequence
+>CP004636.2 Saccharomyces cerevisiae YJM689 chromosome II genomic sequence
+>CP004636.2 Saccharomyces cerevisiae YJM689 chromosome II genomic sequence
+>CP004636.2 Saccharomyces cerevisiae YJM689 chromosome II genomic sequence
+>CP004626.2 Saccharomyces cerevisiae YJM453 chromosome II genomic sequence
+>CP004626.2 Saccharomyces cerevisiae YJM453 chromosome II genomic sequence
+>CP004626.2 Saccharomyces cerevisiae YJM453 chromosome II genomic sequence
+>CP004626.2 Saccharomyces cerevisiae YJM453 chromosome II genomic sequence
+>CP004616.2 Saccharomyces cerevisiae YJM195 chromosome II genomic sequence
+>CP004616.2 Saccharomyces cerevisiae YJM195 chromosome II genomic sequence
+>CP004616.2 Saccharomyces cerevisiae YJM195 chromosome II genomic sequence
+>CP004616.2 Saccharomyces cerevisiae YJM195 chromosome II genomic sequence
+>CP004606.2 Saccharomyces cerevisiae YJM1190 chromosome II genomic sequence
+>CP004606.2 Saccharomyces cerevisiae YJM1190 chromosome II genomic sequence
+>CP004606.2 Saccharomyces cerevisiae YJM1190 chromosome II genomic sequence
+>CP004606.2 Saccharomyces cerevisiae YJM1190 chromosome II genomic sequence
+>CP004596.2 Saccharomyces cerevisiae YJM978 chromosome II genomic sequence
+>CP004596.2 Saccharomyces cerevisiae YJM978 chromosome II genomic sequence
+>CP004596.2 Saccharomyces cerevisiae YJM978 chromosome II genomic sequence
+>CP004596.2 Saccharomyces cerevisiae YJM978 chromosome II genomic sequence
+>CP004586.2 Saccharomyces cerevisiae YJM1527 chromosome II genomic sequence
+>CP004586.2 Saccharomyces cerevisiae YJM1527 chromosome II genomic sequence
+>CP004586.2 Saccharomyces cerevisiae YJM1527 chromosome II genomic sequence
+>CP004586.2 Saccharomyces cerevisiae YJM1527 chromosome II genomic sequence
+>CP004576.2 Saccharomyces cerevisiae YJM1443 chromosome II genomic sequence
+>CP004576.2 Saccharomyces cerevisiae YJM1443 chromosome II genomic sequence
+>CP004576.2 Saccharomyces cerevisiae YJM1443 chromosome II genomic sequence
+>CP004576.2 Saccharomyces cerevisiae YJM1443 chromosome II genomic sequence
+>CP008237.1 Saccharomyces cerevisiae strain HB_S_GIMBLETTROAD_16 chromosome II sequence
+>CP008237.1 Saccharomyces cerevisiae strain HB_S_GIMBLETTROAD_16 chromosome II sequence
+>CP008237.1 Saccharomyces cerevisiae strain HB_S_GIMBLETTROAD_16 chromosome II sequence
+>CP008237.1 Saccharomyces cerevisiae strain HB_S_GIMBLETTROAD_16 chromosome II sequence
+>CP008322.1 Saccharomyces cerevisiae strain WI_S_OAKURA_4 chromosome II sequence
+>CP008322.1 Saccharomyces cerevisiae strain WI_S_OAKURA_4 chromosome II sequence
+>CP008322.1 Saccharomyces cerevisiae strain WI_S_OAKURA_4 chromosome II sequence
+>CP008322.1 Saccharomyces cerevisiae strain WI_S_OAKURA_4 chromosome II sequence
+>CP008305.1 Saccharomyces cerevisiae strain T63 chromosome II sequence
+>CP008305.1 Saccharomyces cerevisiae strain T63 chromosome II sequence
+>CP008305.1 Saccharomyces cerevisiae strain T63 chromosome II sequence
+>CP008305.1 Saccharomyces cerevisiae strain T63 chromosome II sequence
+>CP008288.1 Saccharomyces cerevisiae strain HB_S_BILANCHER_12 chromosome II sequence
+>CP008288.1 Saccharomyces cerevisiae strain HB_S_BILANCHER_12 chromosome II sequence
+>CP008288.1 Saccharomyces cerevisiae strain HB_S_BILANCHER_12 chromosome II sequence
+>CP008288.1 Saccharomyces cerevisiae strain HB_S_BILANCHER_12 chromosome II sequence
+>CP008271.1 Saccharomyces cerevisiae strain HB_S_BILANCHER_6 chromosome II sequence
+>CP008271.1 Saccharomyces cerevisiae strain HB_S_BILANCHER_6 chromosome II sequence
+>CP008271.1 Saccharomyces cerevisiae strain HB_S_BILANCHER_6 chromosome II sequence
+>CP008271.1 Saccharomyces cerevisiae strain HB_S_BILANCHER_6 chromosome II sequence
+>CP008254.1 Saccharomyces cerevisiae strain HB_S_GIMBLETTROAD_14 chromosome II sequence
+>CP008254.1 Saccharomyces cerevisiae strain HB_S_GIMBLETTROAD_14 chromosome II sequence
+>CP008254.1 Saccharomyces cerevisiae strain HB_S_GIMBLETTROAD_14 chromosome II sequence
+>CP008254.1 Saccharomyces cerevisiae strain HB_S_GIMBLETTROAD_14 chromosome II sequence
+>CP008220.1 Saccharomyces cerevisiae strain HB_S_GIMBLETTROAD_22 chromosome II sequence
+>CP008220.1 Saccharomyces cerevisiae strain HB_S_GIMBLETTROAD_22 chromosome II sequence
+>CP008220.1 Saccharomyces cerevisiae strain HB_S_GIMBLETTROAD_22 chromosome II sequence
+>CP008220.1 Saccharomyces cerevisiae strain HB_S_GIMBLETTROAD_22 chromosome II sequence
+>CP008407.1 Saccharomyces cerevisiae strain HB_C_OMARUNUI_7 chromosome II sequence
+>CP008407.1 Saccharomyces cerevisiae strain HB_C_OMARUNUI_7 chromosome II sequence
+>CP008407.1 Saccharomyces cerevisiae strain HB_C_OMARUNUI_7 chromosome II sequence
+>CP008407.1 Saccharomyces cerevisiae strain HB_C_OMARUNUI_7 chromosome II sequence
+>CP008390.1 Saccharomyces cerevisiae strain HB_C_TUKITUKI1_16 chromosome II sequence
+>CP008390.1 Saccharomyces cerevisiae strain HB_C_TUKITUKI1_16 chromosome II sequence
+>CP008390.1 Saccharomyces cerevisiae strain HB_C_TUKITUKI1_16 chromosome II sequence
+>CP008390.1 Saccharomyces cerevisiae strain HB_C_TUKITUKI1_16 chromosome II sequence
+>CP008373.1 Saccharomyces cerevisiae strain HB_C_TUKITUKI2_10 chromosome II sequence
+>CP008373.1 Saccharomyces cerevisiae strain HB_C_TUKITUKI2_10 chromosome II sequence
+>CP008373.1 Saccharomyces cerevisiae strain HB_C_TUKITUKI2_10 chromosome II sequence
+>CP008373.1 Saccharomyces cerevisiae strain HB_C_TUKITUKI2_10 chromosome II sequence
+>CP008356.1 Saccharomyces cerevisiae strain WI_S_JASA_13 chromosome II sequence
+>CP008356.1 Saccharomyces cerevisiae strain WI_S_JASA_13 chromosome II sequence
+>CP008356.1 Saccharomyces cerevisiae strain WI_S_JASA_13 chromosome II sequence
+>CP008356.1 Saccharomyces cerevisiae strain WI_S_JASA_13 chromosome II sequence
+>CP008339.1 Saccharomyces cerevisiae strain WI_S_JASA_5 chromosome II sequence
+>CP008339.1 Saccharomyces cerevisiae strain WI_S_JASA_5 chromosome II sequence
+>CP008339.1 Saccharomyces cerevisiae strain WI_S_JASA_5 chromosome II sequence
+>CP008339.1 Saccharomyces cerevisiae strain WI_S_JASA_5 chromosome II sequence
+>CP008492.1 Saccharomyces cerevisiae strain T52 chromosome II sequence
+>CP008492.1 Saccharomyces cerevisiae strain T52 chromosome II sequence
+>CP008492.1 Saccharomyces cerevisiae strain T52 chromosome II sequence
+>CP008492.1 Saccharomyces cerevisiae strain T52 chromosome II sequence
+>CP008475.1 Saccharomyces cerevisiae strain HB_C_KOROKIPO_12 chromosome II sequence
+>CP008475.1 Saccharomyces cerevisiae strain HB_C_KOROKIPO_12 chromosome II sequence
+>CP008475.1 Saccharomyces cerevisiae strain HB_C_KOROKIPO_12 chromosome II sequence
+>CP008475.1 Saccharomyces cerevisiae strain HB_C_KOROKIPO_12 chromosome II sequence
+>CP008458.1 Saccharomyces cerevisiae strain HB_C_KOROKIPO_3 chromosome II sequence
+>CP008458.1 Saccharomyces cerevisiae strain HB_C_KOROKIPO_3 chromosome II sequence
+>CP008458.1 Saccharomyces cerevisiae strain HB_C_KOROKIPO_3 chromosome II sequence
+>CP008458.1 Saccharomyces cerevisiae strain HB_C_KOROKIPO_3 chromosome II sequence
+>CP008441.1 Saccharomyces cerevisiae strain HB_C_OMARUNUI_14 chromosome II sequence
+>CP008441.1 Saccharomyces cerevisiae strain HB_C_OMARUNUI_14 chromosome II sequence
+>CP008441.1 Saccharomyces cerevisiae strain HB_C_OMARUNUI_14 chromosome II sequence
+>CP008441.1 Saccharomyces cerevisiae strain HB_C_OMARUNUI_14 chromosome II sequence
+>CP008424.1 Saccharomyces cerevisiae strain HB_C_OMARUNUI_6 chromosome II sequence
+>CP008424.1 Saccharomyces cerevisiae strain HB_C_OMARUNUI_6 chromosome II sequence
+>CP008424.1 Saccharomyces cerevisiae strain HB_C_OMARUNUI_6 chromosome II sequence
+>CP008424.1 Saccharomyces cerevisiae strain HB_C_OMARUNUI_6 chromosome II sequence
+>CP008577.1 Saccharomyces cerevisiae strain WA_C_MATES_13 chromosome II sequence
+>CP008577.1 Saccharomyces cerevisiae strain WA_C_MATES_13 chromosome II sequence
+>CP008577.1 Saccharomyces cerevisiae strain WA_C_MATES_13 chromosome II sequence
+>CP008577.1 Saccharomyces cerevisiae strain WA_C_MATES_13 chromosome II sequence
+>CP008560.1 Saccharomyces cerevisiae strain WA_C_WAITAKEREROAD_7 chromosome II sequence
+>CP008560.1 Saccharomyces cerevisiae strain WA_C_WAITAKEREROAD_7 chromosome II sequence
+>CP008560.1 Saccharomyces cerevisiae strain WA_C_WAITAKEREROAD_7 chromosome II sequence
+>CP008560.1 Saccharomyces cerevisiae strain WA_C_WAITAKEREROAD_7 chromosome II sequence
+>CP008543.1 Saccharomyces cerevisiae strain WI_C_MB95MBMZ_4 chromosome II sequence
+>CP008543.1 Saccharomyces cerevisiae strain WI_C_MB95MBMZ_4 chromosome II sequence
+>CP008543.1 Saccharomyces cerevisiae strain WI_C_MB95MBMZ_4 chromosome II sequence
+>CP008543.1 Saccharomyces cerevisiae strain WI_C_MB95MBMZ_4 chromosome II sequence
+>CP008526.1 Saccharomyces cerevisiae strain WI_C_MBSP_15 chromosome II sequence
+>CP008526.1 Saccharomyces cerevisiae strain WI_C_MBSP_15 chromosome II sequence
+>CP008526.1 Saccharomyces cerevisiae strain WI_C_MBSP_15 chromosome II sequence
+>CP008526.1 Saccharomyces cerevisiae strain WI_C_MBSP_15 chromosome II sequence
+>CP008509.1 Saccharomyces cerevisiae strain WI_C_MBSP_4 chromosome II sequence
+>CP008509.1 Saccharomyces cerevisiae strain WI_C_MBSP_4 chromosome II sequence
+>CP008509.1 Saccharomyces cerevisiae strain WI_C_MBSP_4 chromosome II sequence
+>CP008509.1 Saccharomyces cerevisiae strain WI_C_MBSP_4 chromosome II sequence
+>CP008662.1 Saccharomyces cerevisiae strain T.52_5A chromosome II sequence
+>CP008662.1 Saccharomyces cerevisiae strain T.52_5A chromosome II sequence
+>CP008662.1 Saccharomyces cerevisiae strain T.52_5A chromosome II sequence
+>CP008662.1 Saccharomyces cerevisiae strain T.52_5A chromosome II sequence
+>CP008645.1 Saccharomyces cerevisiae strain T.52_5E chromosome II sequence
+>CP008645.1 Saccharomyces cerevisiae strain T.52_5E chromosome II sequence
+>CP008645.1 Saccharomyces cerevisiae strain T.52_5E chromosome II sequence
+>CP008645.1 Saccharomyces cerevisiae strain T.52_5E chromosome II sequence
+>CP008628.1 Saccharomyces cerevisiae strain WA_C_CODDINGTON_2 chromosome II sequence
+>CP008628.1 Saccharomyces cerevisiae strain WA_C_CODDINGTON_2 chromosome II sequence
+>CP008628.1 Saccharomyces cerevisiae strain WA_C_CODDINGTON_2 chromosome II sequence
+>CP008628.1 Saccharomyces cerevisiae strain WA_C_CODDINGTON_2 chromosome II sequence
+>CP008611.1 Saccharomyces cerevisiae strain WA_C_KINGSMILL_10 chromosome II sequence
+>CP008611.1 Saccharomyces cerevisiae strain WA_C_KINGSMILL_10 chromosome II sequence
+>CP008611.1 Saccharomyces cerevisiae strain WA_C_KINGSMILL_10 chromosome II sequence
+>CP008611.1 Saccharomyces cerevisiae strain WA_C_KINGSMILL_10 chromosome II sequence
+>CP008594.1 Saccharomyces cerevisiae strain WA_C_MATES_10 chromosome II sequence
+>CP008594.1 Saccharomyces cerevisiae strain WA_C_MATES_10 chromosome II sequence
+>CP008594.1 Saccharomyces cerevisiae strain WA_C_MATES_10 chromosome II sequence
+>CP008594.1 Saccharomyces cerevisiae strain WA_C_MATES_10 chromosome II sequence
+>CP008203.1 Saccharomyces cerevisiae strain WSERCsf_G4 chromosome II sequence
+>CP008203.1 Saccharomyces cerevisiae strain WSERCsf_G4 chromosome II sequence
+>CP008203.1 Saccharomyces cerevisiae strain WSERCsf_G4 chromosome II sequence
+>CP008203.1 Saccharomyces cerevisiae strain WSERCsf_G4 chromosome II sequence
+>CP008186.1 Saccharomyces cerevisiae strain HB_S_GIMBLETTROAD_5 chromosome II sequence
+>CP008186.1 Saccharomyces cerevisiae strain HB_S_GIMBLETTROAD_5 chromosome II sequence
+>CP008186.1 Saccharomyces cerevisiae strain HB_S_GIMBLETTROAD_5 chromosome II sequence
+>CP008186.1 Saccharomyces cerevisiae strain HB_S_GIMBLETTROAD_5 chromosome II sequence
+>CP008169.1 Saccharomyces cerevisiae strain HCNKIsf_G7 chromosome II sequence
+>CP008169.1 Saccharomyces cerevisiae strain HCNKIsf_G7 chromosome II sequence
+>CP008169.1 Saccharomyces cerevisiae strain HCNKIsf_G7 chromosome II sequence
+>CP008169.1 Saccharomyces cerevisiae strain HCNKIsf_G7 chromosome II sequence
+>CP008152.1 Saccharomyces cerevisiae strain HPRMTsf_H7 chromosome II sequence
+>CP008152.1 Saccharomyces cerevisiae strain HPRMTsf_H7 chromosome II sequence
+>CP008152.1 Saccharomyces cerevisiae strain HPRMTsf_H7 chromosome II sequence
+>CP008152.1 Saccharomyces cerevisiae strain HPRMTsf_H7 chromosome II sequence
+>CP008679.1 Saccharomyces cerevisiae strain T16 chromosome II sequence
+>CP008679.1 Saccharomyces cerevisiae strain T16 chromosome II sequence
+>CP008679.1 Saccharomyces cerevisiae strain T16 chromosome II sequence
+>CP008679.1 Saccharomyces cerevisiae strain T16 chromosome II sequence
+>CP008135.1 Saccharomyces cerevisiae strain MARARsf_A10 chromosome II sequence
+>CP008135.1 Saccharomyces cerevisiae strain MARARsf_A10 chromosome II sequence
+>CP008135.1 Saccharomyces cerevisiae strain MARARsf_A10 chromosome II sequence
+>CP008135.1 Saccharomyces cerevisiae strain MARARsf_A10 chromosome II sequence
+>CP008118.1 Saccharomyces cerevisiae strain MTKSKsf_E2 chromosome II sequence
+>CP008118.1 Saccharomyces cerevisiae strain MTKSKsf_E2 chromosome II sequence
+>CP008118.1 Saccharomyces cerevisiae strain MTKSKsf_E2 chromosome II sequence
+>CP008118.1 Saccharomyces cerevisiae strain MTKSKsf_E2 chromosome II sequence
+>CP008101.1 Saccharomyces cerevisiae strain NSEBRsf_A9 chromosome II sequence
+>CP008101.1 Saccharomyces cerevisiae strain NSEBRsf_A9 chromosome II sequence
+>CP008101.1 Saccharomyces cerevisiae strain NSEBRsf_A9 chromosome II sequence
+>CP008101.1 Saccharomyces cerevisiae strain NSEBRsf_A9 chromosome II sequence
+>CP008084.1 Saccharomyces cerevisiae strain WSETAwf_B1 chromosome II sequence
+>CP008084.1 Saccharomyces cerevisiae strain WSETAwf_B1 chromosome II sequence
+>CP008084.1 Saccharomyces cerevisiae strain WSETAwf_B1 chromosome II sequence
+>CP008084.1 Saccharomyces cerevisiae strain WSETAwf_B1 chromosome II sequence
+>CP008067.1 Saccharomyces cerevisiae strain T8 chromosome II sequence
+>CP008067.1 Saccharomyces cerevisiae strain T8 chromosome II sequence
+>CP008067.1 Saccharomyces cerevisiae strain T8 chromosome II sequence
+>CP008067.1 Saccharomyces cerevisiae strain T8 chromosome II sequence
+>CP008050.1 Saccharomyces cerevisiae strain HB_S_GIMBLETTROAD_9 chromosome II sequence
+>CP008050.1 Saccharomyces cerevisiae strain HB_S_GIMBLETTROAD_9 chromosome II sequence
+>CP008050.1 Saccharomyces cerevisiae strain HB_S_GIMBLETTROAD_9 chromosome II sequence
+>CP008050.1 Saccharomyces cerevisiae strain HB_S_GIMBLETTROAD_9 chromosome II sequence
+>CP008033.1 Saccharomyces cerevisiae strain TNPLST-4-S-2 chromosome II sequence
+>CP008033.1 Saccharomyces cerevisiae strain TNPLST-4-S-2 chromosome II sequence
+>CP008033.1 Saccharomyces cerevisiae strain TNPLST-4-S-2 chromosome II sequence
+>CP008033.1 Saccharomyces cerevisiae strain TNPLST-4-S-2 chromosome II sequence
+>CP008016.1 Saccharomyces cerevisiae strain Soil7-1 chromosome II sequence
+>CP008016.1 Saccharomyces cerevisiae strain Soil7-1 chromosome II sequence
+>CP008016.1 Saccharomyces cerevisiae strain Soil7-1 chromosome II sequence
+>CP008016.1 Saccharomyces cerevisiae strain Soil7-1 chromosome II sequence
+>CP007999.1 Saccharomyces cerevisiae strain CDRDR_sf_H chromosome II sequence
+>CP007999.1 Saccharomyces cerevisiae strain CDRDR_sf_H chromosome II sequence
+>CP007999.1 Saccharomyces cerevisiae strain CDRDR_sf_H chromosome II sequence
+>CP007999.1 Saccharomyces cerevisiae strain CDRDR_sf_H chromosome II sequence
+>CP007982.1 Saccharomyces cerevisiae strain CRIRIwf_A11 chromosome II sequence
+>CP007982.1 Saccharomyces cerevisiae strain CRIRIwf_A11 chromosome II sequence
+>CP007982.1 Saccharomyces cerevisiae strain CRIRIwf_A11 chromosome II sequence
+>CP007982.1 Saccharomyces cerevisiae strain CRIRIwf_A11 chromosome II sequence
+>CP007965.1 Saccharomyces cerevisiae strain HCNTHsf_C5 chromosome II sequence
+>CP007965.1 Saccharomyces cerevisiae strain HCNTHsf_C5 chromosome II sequence
+>CP007965.1 Saccharomyces cerevisiae strain HCNTHsf_C5 chromosome II sequence
+>CP007965.1 Saccharomyces cerevisiae strain HCNTHsf_C5 chromosome II sequence
+>CP007948.1 Saccharomyces cerevisiae strain T78 chromosome II sequence
+>CP007948.1 Saccharomyces cerevisiae strain T78 chromosome II sequence
+>CP007948.1 Saccharomyces cerevisiae strain T78 chromosome II sequence
+>CP007948.1 Saccharomyces cerevisiae strain T78 chromosome II sequence
+>CP007931.1 Saccharomyces cerevisiae strain HCNTHsf_F8 chromosome II sequence
+>CP007931.1 Saccharomyces cerevisiae strain HCNTHsf_F8 chromosome II sequence
+>CP007931.1 Saccharomyces cerevisiae strain HCNTHsf_F8 chromosome II sequence
+>CP007931.1 Saccharomyces cerevisiae strain HCNTHsf_F8 chromosome II sequence
+>CP007914.1 Saccharomyces cerevisiae strain HPRMAwf_D10 chromosome II sequence
+>CP007914.1 Saccharomyces cerevisiae strain HPRMAwf_D10 chromosome II sequence
+>CP007914.1 Saccharomyces cerevisiae strain HPRMAwf_D10 chromosome II sequence
+>CP007914.1 Saccharomyces cerevisiae strain HPRMAwf_D10 chromosome II sequence
+>CP007897.1 Saccharomyces cerevisiae strain NSERVsf_F8 chromosome II sequence
+>CP007897.1 Saccharomyces cerevisiae strain NSERVsf_F8 chromosome II sequence
+>CP007897.1 Saccharomyces cerevisiae strain NSERVsf_F8 chromosome II sequence
+>CP007897.1 Saccharomyces cerevisiae strain NSERVsf_F8 chromosome II sequence
+>CP007880.1 Saccharomyces cerevisiae strain HB_C_TUKITUKI2_4 chromosome II sequence
+>CP007880.1 Saccharomyces cerevisiae strain HB_C_TUKITUKI2_4 chromosome II sequence
+>CP007880.1 Saccharomyces cerevisiae strain HB_C_TUKITUKI2_4 chromosome II sequence
+>CP007880.1 Saccharomyces cerevisiae strain HB_C_TUKITUKI2_4 chromosome II sequence
+>CP007863.1 Saccharomyces cerevisiae strain Sol7-2 chromosome II sequence
+>CP007863.1 Saccharomyces cerevisiae strain Sol7-2 chromosome II sequence
+>CP007863.1 Saccharomyces cerevisiae strain Sol7-2 chromosome II sequence
+>CP007863.1 Saccharomyces cerevisiae strain Sol7-2 chromosome II sequence
+>CP007846.1 Saccharomyces cerevisiae strain T.52_2H chromosome II sequence
+>CP007846.1 Saccharomyces cerevisiae strain T.52_2H chromosome II sequence
+>CP007846.1 Saccharomyces cerevisiae strain T.52_2H chromosome II sequence
+>CP007846.1 Saccharomyces cerevisiae strain T.52_2H chromosome II sequence
+>CP007829.1 Saccharomyces cerevisiae strain T.52_3A chromosome II sequence
+>CP007829.1 Saccharomyces cerevisiae strain T.52_3A chromosome II sequence
+>CP007829.1 Saccharomyces cerevisiae strain T.52_3A chromosome II sequence
+>CP007829.1 Saccharomyces cerevisiae strain T.52_3A chromosome II sequence
+>CP007812.1 Saccharomyces cerevisiae strain T.52_3C chromosome II sequence
+>CP007812.1 Saccharomyces cerevisiae strain T.52_3C chromosome II sequence
+>CP007812.1 Saccharomyces cerevisiae strain T.52_3C chromosome II sequence
+>CP007812.1 Saccharomyces cerevisiae strain T.52_3C chromosome II sequence
+>CP004655.2 Saccharomyces cerevisiae YJM1388 chromosome II genomic sequence
+>CP004655.2 Saccharomyces cerevisiae YJM1388 chromosome II genomic sequence
+>CP004655.2 Saccharomyces cerevisiae YJM1388 chromosome II genomic sequence
+>CP004655.2 Saccharomyces cerevisiae YJM1388 chromosome II genomic sequence
+>CP004645.2 Saccharomyces cerevisiae YJM1338 chromosome II genomic sequence
+>CP004645.2 Saccharomyces cerevisiae YJM1338 chromosome II genomic sequence
+>CP004645.2 Saccharomyces cerevisiae YJM1338 chromosome II genomic sequence
+>CP004645.2 Saccharomyces cerevisiae YJM1338 chromosome II genomic sequence
+>CP004635.2 Saccharomyces cerevisiae YJM683 chromosome II genomic sequence
+>CP004635.2 Saccharomyces cerevisiae YJM683 chromosome II genomic sequence
+>CP004635.2 Saccharomyces cerevisiae YJM683 chromosome II genomic sequence
+>CP004635.2 Saccharomyces cerevisiae YJM683 chromosome II genomic sequence
+>CP004625.2 Saccharomyces cerevisiae YJM451 chromosome II genomic sequence
+>CP004625.2 Saccharomyces cerevisiae YJM451 chromosome II genomic sequence
+>CP004625.2 Saccharomyces cerevisiae YJM451 chromosome II genomic sequence
+>CP004625.2 Saccharomyces cerevisiae YJM451 chromosome II genomic sequence
+>CP004615.2 Saccharomyces cerevisiae YJM193 chromosome II genomic sequence
+>CP004615.2 Saccharomyces cerevisiae YJM193 chromosome II genomic sequence
+>CP004615.2 Saccharomyces cerevisiae YJM193 chromosome II genomic sequence
+>CP004615.2 Saccharomyces cerevisiae YJM193 chromosome II genomic sequence
+>CP004605.2 Saccharomyces cerevisiae YJM1133 chromosome II genomic sequence
+>CP004605.2 Saccharomyces cerevisiae YJM1133 chromosome II genomic sequence
+>CP004605.2 Saccharomyces cerevisiae YJM1133 chromosome II genomic sequence
+>CP004605.2 Saccharomyces cerevisiae YJM1133 chromosome II genomic sequence
+>CP004595.2 Saccharomyces cerevisiae YJM975 chromosome II genomic sequence
+>CP004595.2 Saccharomyces cerevisiae YJM975 chromosome II genomic sequence
+>CP004595.2 Saccharomyces cerevisiae YJM975 chromosome II genomic sequence
+>CP004595.2 Saccharomyces cerevisiae YJM975 chromosome II genomic sequence
+>CP004585.2 Saccharomyces cerevisiae YJM1526 chromosome II genomic sequence
+>CP004585.2 Saccharomyces cerevisiae YJM1526 chromosome II genomic sequence
+>CP004585.2 Saccharomyces cerevisiae YJM1526 chromosome II genomic sequence
+>CP004585.2 Saccharomyces cerevisiae YJM1526 chromosome II genomic sequence
+>CP004575.2 Saccharomyces cerevisiae YJM1439 chromosome II genomic sequence
+>CP004575.2 Saccharomyces cerevisiae YJM1439 chromosome II genomic sequence
+>CP004575.2 Saccharomyces cerevisiae YJM1439 chromosome II genomic sequence
+>CP004575.2 Saccharomyces cerevisiae YJM1439 chromosome II genomic sequence
+>CP004654.2 Saccharomyces cerevisiae YJM1387 chromosome II genomic sequence
+>CP004654.2 Saccharomyces cerevisiae YJM1387 chromosome II genomic sequence
+>CP004654.2 Saccharomyces cerevisiae YJM1387 chromosome II genomic sequence
+>CP004654.2 Saccharomyces cerevisiae YJM1387 chromosome II genomic sequence
+>CP004644.2 Saccharomyces cerevisiae YJM1336 chromosome II genomic sequence
+>CP004644.2 Saccharomyces cerevisiae YJM1336 chromosome II genomic sequence
+>CP004644.2 Saccharomyces cerevisiae YJM1336 chromosome II genomic sequence
+>CP004644.2 Saccharomyces cerevisiae YJM1336 chromosome II genomic sequence
+>CP004634.2 Saccharomyces cerevisiae YJM682 chromosome II genomic sequence
+>CP004634.2 Saccharomyces cerevisiae YJM682 chromosome II genomic sequence
+>CP004634.2 Saccharomyces cerevisiae YJM682 chromosome II genomic sequence
+>CP004634.2 Saccharomyces cerevisiae YJM682 chromosome II genomic sequence
+>CP004624.2 Saccharomyces cerevisiae YJM450 chromosome II genomic sequence
+>CP004624.2 Saccharomyces cerevisiae YJM450 chromosome II genomic sequence
+>CP004624.2 Saccharomyces cerevisiae YJM450 chromosome II genomic sequence
+>CP004624.2 Saccharomyces cerevisiae YJM450 chromosome II genomic sequence
+>CP004614.2 Saccharomyces cerevisiae YJM189 chromosome II genomic sequence
+>CP004614.2 Saccharomyces cerevisiae YJM189 chromosome II genomic sequence
+>CP004614.2 Saccharomyces cerevisiae YJM189 chromosome II genomic sequence
+>CP004614.2 Saccharomyces cerevisiae YJM189 chromosome II genomic sequence
+>CP004604.2 Saccharomyces cerevisiae YJM1129 chromosome II genomic sequence
+>CP004604.2 Saccharomyces cerevisiae YJM1129 chromosome II genomic sequence
+>CP004604.2 Saccharomyces cerevisiae YJM1129 chromosome II genomic sequence
+>CP004604.2 Saccharomyces cerevisiae YJM1129 chromosome II genomic sequence
+>CP004594.2 Saccharomyces cerevisiae YJM972 chromosome II genomic sequence
+>CP004594.2 Saccharomyces cerevisiae YJM972 chromosome II genomic sequence
+>CP004594.2 Saccharomyces cerevisiae YJM972 chromosome II genomic sequence
+>CP004594.2 Saccharomyces cerevisiae YJM972 chromosome II genomic sequence
+>CP004584.2 Saccharomyces cerevisiae YJM1479 chromosome II genomic sequence
+>CP004584.2 Saccharomyces cerevisiae YJM1479 chromosome II genomic sequence
+>CP004584.2 Saccharomyces cerevisiae YJM1479 chromosome II genomic sequence
+>CP004584.2 Saccharomyces cerevisiae YJM1479 chromosome II genomic sequence
+>CP004574.2 Saccharomyces cerevisiae YJM1434 chromosome II genomic sequence
+>CP004574.2 Saccharomyces cerevisiae YJM1434 chromosome II genomic sequence
+>CP004574.2 Saccharomyces cerevisiae YJM1434 chromosome II genomic sequence
+>CP004574.2 Saccharomyces cerevisiae YJM1434 chromosome II genomic sequence
+>CP004653.2 Saccharomyces cerevisiae YJM1386 chromosome II genomic sequence
+>CP004653.2 Saccharomyces cerevisiae YJM1386 chromosome II genomic sequence
+>CP004653.2 Saccharomyces cerevisiae YJM1386 chromosome II genomic sequence
+>CP004653.2 Saccharomyces cerevisiae YJM1386 chromosome II genomic sequence
+>CP004643.2 Saccharomyces cerevisiae YJM1332 chromosome II genomic sequence
+>CP004643.2 Saccharomyces cerevisiae YJM1332 chromosome II genomic sequence
+>CP004643.2 Saccharomyces cerevisiae YJM1332 chromosome II genomic sequence
+>CP004643.2 Saccharomyces cerevisiae YJM1332 chromosome II genomic sequence
+>CP004633.2 Saccharomyces cerevisiae YJM681 chromosome II genomic sequence
+>CP004633.2 Saccharomyces cerevisiae YJM681 chromosome II genomic sequence
+>CP004633.2 Saccharomyces cerevisiae YJM681 chromosome II genomic sequence
+>CP004633.2 Saccharomyces cerevisiae YJM681 chromosome II genomic sequence
+>CP004623.2 Saccharomyces cerevisiae YJM428 chromosome II genomic sequence
+>CP004623.2 Saccharomyces cerevisiae YJM428 chromosome II genomic sequence
+>CP004623.2 Saccharomyces cerevisiae YJM428 chromosome II genomic sequence
+>CP004623.2 Saccharomyces cerevisiae YJM428 chromosome II genomic sequence
+>CP004613.2 Saccharomyces cerevisiae YJM1250 chromosome II genomic sequence
+>CP004613.2 Saccharomyces cerevisiae YJM1250 chromosome II genomic sequence
+>CP004613.2 Saccharomyces cerevisiae YJM1250 chromosome II genomic sequence
+>CP004613.2 Saccharomyces cerevisiae YJM1250 chromosome II genomic sequence
+>CP004603.2 Saccharomyces cerevisiae YJM1083 chromosome II genomic sequence
+>CP004603.2 Saccharomyces cerevisiae YJM1083 chromosome II genomic sequence
+>CP004603.2 Saccharomyces cerevisiae YJM1083 chromosome II genomic sequence
+>CP004603.2 Saccharomyces cerevisiae YJM1083 chromosome II genomic sequence
+>CP004593.2 Saccharomyces cerevisiae YJM969 chromosome II genomic sequence
+>CP004593.2 Saccharomyces cerevisiae YJM969 chromosome II genomic sequence
+>CP004593.2 Saccharomyces cerevisiae YJM969 chromosome II genomic sequence
+>CP004593.2 Saccharomyces cerevisiae YJM969 chromosome II genomic sequence
+>CP004583.2 Saccharomyces cerevisiae YJM1478 chromosome II genomic sequence
+>CP004583.2 Saccharomyces cerevisiae YJM1478 chromosome II genomic sequence
+>CP004583.2 Saccharomyces cerevisiae YJM1478 chromosome II genomic sequence
+>CP004583.2 Saccharomyces cerevisiae YJM1478 chromosome II genomic sequence
+>CP004573.2 Saccharomyces cerevisiae YJM1433 chromosome II genomic sequence
+>CP004573.2 Saccharomyces cerevisiae YJM1433 chromosome II genomic sequence
+>CP004573.2 Saccharomyces cerevisiae YJM1433 chromosome II genomic sequence
+>CP004573.2 Saccharomyces cerevisiae YJM1433 chromosome II genomic sequence
+>CP004652.2 Saccharomyces cerevisiae YJM1385 chromosome II genomic sequence
+>CP004652.2 Saccharomyces cerevisiae YJM1385 chromosome II genomic sequence
+>CP004652.2 Saccharomyces cerevisiae YJM1385 chromosome II genomic sequence
+>CP004652.2 Saccharomyces cerevisiae YJM1385 chromosome II genomic sequence
+>CP004642.2 Saccharomyces cerevisiae YJM1326 chromosome II genomic sequence
+>CP004642.2 Saccharomyces cerevisiae YJM1326 chromosome II genomic sequence
+>CP004642.2 Saccharomyces cerevisiae YJM1326 chromosome II genomic sequence
+>CP004642.2 Saccharomyces cerevisiae YJM1326 chromosome II genomic sequence
+>CP004632.2 Saccharomyces cerevisiae YJM627 chromosome II genomic sequence
+>CP004632.2 Saccharomyces cerevisiae YJM627 chromosome II genomic sequence
+>CP004632.2 Saccharomyces cerevisiae YJM627 chromosome II genomic sequence
+>CP004632.2 Saccharomyces cerevisiae YJM627 chromosome II genomic sequence
+>CP004622.2 Saccharomyces cerevisiae YJM326 chromosome II genomic sequence
+>CP004622.2 Saccharomyces cerevisiae YJM326 chromosome II genomic sequence
+>CP004622.2 Saccharomyces cerevisiae YJM326 chromosome II genomic sequence
+>CP004622.2 Saccharomyces cerevisiae YJM326 chromosome II genomic sequence
+>CP004612.2 Saccharomyces cerevisiae YJM1248 chromosome II genomic sequence
+>CP004612.2 Saccharomyces cerevisiae YJM1248 chromosome II genomic sequence
+>CP004612.2 Saccharomyces cerevisiae YJM1248 chromosome II genomic sequence
+>CP004612.2 Saccharomyces cerevisiae YJM1248 chromosome II genomic sequence
+>CP004602.2 Saccharomyces cerevisiae YJM996 chromosome II genomic sequence
+>CP004602.2 Saccharomyces cerevisiae YJM996 chromosome II genomic sequence
+>CP004602.2 Saccharomyces cerevisiae YJM996 chromosome II genomic sequence
+>CP004602.2 Saccharomyces cerevisiae YJM996 chromosome II genomic sequence
+>CP004592.2 Saccharomyces cerevisiae YJM693 chromosome II genomic sequence
+>CP004592.2 Saccharomyces cerevisiae YJM693 chromosome II genomic sequence
+>CP004592.2 Saccharomyces cerevisiae YJM693 chromosome II genomic sequence
+>CP004592.2 Saccharomyces cerevisiae YJM693 chromosome II genomic sequence
+>CP004582.2 Saccharomyces cerevisiae YJM1477 chromosome II genomic sequence
+>CP004582.2 Saccharomyces cerevisiae YJM1477 chromosome II genomic sequence
+>CP004582.2 Saccharomyces cerevisiae YJM1477 chromosome II genomic sequence
+>CP004582.2 Saccharomyces cerevisiae YJM1477 chromosome II genomic sequence
+>CP004572.2 Saccharomyces cerevisiae YJM1419 chromosome II genomic sequence
+>CP004572.2 Saccharomyces cerevisiae YJM1419 chromosome II genomic sequence
+>CP004572.2 Saccharomyces cerevisiae YJM1419 chromosome II genomic sequence
+>CP004572.2 Saccharomyces cerevisiae YJM1419 chromosome II genomic sequence
+>CP004601.2 Saccharomyces cerevisiae YJM993 chromosome II genomic sequence
+>CP004601.2 Saccharomyces cerevisiae YJM993 chromosome II genomic sequence
+>CP004601.2 Saccharomyces cerevisiae YJM993 chromosome II genomic sequence
+>CP004601.2 Saccharomyces cerevisiae YJM993 chromosome II genomic sequence
+>CP004651.2 Saccharomyces cerevisiae YJM1383 chromosome II genomic sequence
+>CP004651.2 Saccharomyces cerevisiae YJM1383 chromosome II genomic sequence
+>CP004651.2 Saccharomyces cerevisiae YJM1383 chromosome II genomic sequence
+>CP004651.2 Saccharomyces cerevisiae YJM1383 chromosome II genomic sequence
+>CP004641.2 Saccharomyces cerevisiae YJM1311 chromosome II genomic sequence
+>CP004641.2 Saccharomyces cerevisiae YJM1311 chromosome II genomic sequence
+>CP004641.2 Saccharomyces cerevisiae YJM1311 chromosome II genomic sequence
+>CP004641.2 Saccharomyces cerevisiae YJM1311 chromosome II genomic sequence
+>CP004631.2 Saccharomyces cerevisiae YJM555 chromosome II genomic sequence
+>CP004631.2 Saccharomyces cerevisiae YJM555 chromosome II genomic sequence
+>CP004631.2 Saccharomyces cerevisiae YJM555 chromosome II genomic sequence
+>CP004631.2 Saccharomyces cerevisiae YJM555 chromosome II genomic sequence
+>CP004621.2 Saccharomyces cerevisiae YJM320 chromosome II genomic sequence
+>CP004621.2 Saccharomyces cerevisiae YJM320 chromosome II genomic sequence
+>CP004621.2 Saccharomyces cerevisiae YJM320 chromosome II genomic sequence
+>CP004621.2 Saccharomyces cerevisiae YJM320 chromosome II genomic sequence
+>CP004611.2 Saccharomyces cerevisiae YJM1244 chromosome II genomic sequence
+>CP004611.2 Saccharomyces cerevisiae YJM1244 chromosome II genomic sequence
+>CP004611.2 Saccharomyces cerevisiae YJM1244 chromosome II genomic sequence
+>CP004611.2 Saccharomyces cerevisiae YJM1244 chromosome II genomic sequence
+>CP004591.2 Saccharomyces cerevisiae YJM1615 chromosome II genomic sequence
+>CP004591.2 Saccharomyces cerevisiae YJM1615 chromosome II genomic sequence
+>CP004591.2 Saccharomyces cerevisiae YJM1615 chromosome II genomic sequence
+>CP004591.2 Saccharomyces cerevisiae YJM1615 chromosome II genomic sequence
+>CP004581.2 Saccharomyces cerevisiae YJM1463 chromosome II genomic sequence
+>CP004581.2 Saccharomyces cerevisiae YJM1463 chromosome II genomic sequence
+>CP004581.2 Saccharomyces cerevisiae YJM1463 chromosome II genomic sequence
+>CP004581.2 Saccharomyces cerevisiae YJM1463 chromosome II genomic sequence
+>CP004571.2 Saccharomyces cerevisiae YJM1418 chromosome II genomic sequence
+>CP004571.2 Saccharomyces cerevisiae YJM1418 chromosome II genomic sequence
+>CP004571.2 Saccharomyces cerevisiae YJM1418 chromosome II genomic sequence
+>CP004571.2 Saccharomyces cerevisiae YJM1418 chromosome II genomic sequence
+>CP004620.2 Saccharomyces cerevisiae YJM271 chromosome II genomic sequence
+>CP004620.2 Saccharomyces cerevisiae YJM271 chromosome II genomic sequence
+>CP004620.2 Saccharomyces cerevisiae YJM271 chromosome II genomic sequence
+>CP004620.2 Saccharomyces cerevisiae YJM271 chromosome II genomic sequence
+>CP004580.2 Saccharomyces cerevisiae YJM1460 chromosome II genomic sequence
+>CP004580.2 Saccharomyces cerevisiae YJM1460 chromosome II genomic sequence
+>CP004580.2 Saccharomyces cerevisiae YJM1460 chromosome II genomic sequence
+>CP004580.2 Saccharomyces cerevisiae YJM1460 chromosome II genomic sequence
+>CP004590.2 Saccharomyces cerevisiae YJM1592 chromosome II genomic sequence
+>CP004590.2 Saccharomyces cerevisiae YJM1592 chromosome II genomic sequence
+>CP004590.2 Saccharomyces cerevisiae YJM1592 chromosome II genomic sequence
+>CP004590.2 Saccharomyces cerevisiae YJM1592 chromosome II genomic sequence
+>CP014733.1 Saccharomyces cerevisiae strain BSPX042 chromosome II sequence
+>CP014733.1 Saccharomyces cerevisiae strain BSPX042 chromosome II sequence
+>CP014733.1 Saccharomyces cerevisiae strain BSPX042 chromosome II sequence
+>CP014733.1 Saccharomyces cerevisiae strain BSPX042 chromosome II sequence
+>CP004650.2 Saccharomyces cerevisiae YJM1381 chromosome II genomic sequence
+>CP004650.2 Saccharomyces cerevisiae YJM1381 chromosome II genomic sequence
+>CP004650.2 Saccharomyces cerevisiae YJM1381 chromosome II genomic sequence
+>CP004650.2 Saccharomyces cerevisiae YJM1381 chromosome II genomic sequence
+>CP004640.2 Saccharomyces cerevisiae YJM1307 chromosome II genomic sequence
+>CP004640.2 Saccharomyces cerevisiae YJM1307 chromosome II genomic sequence
+>CP004640.2 Saccharomyces cerevisiae YJM1307 chromosome II genomic sequence
+>CP004640.2 Saccharomyces cerevisiae YJM1307 chromosome II genomic sequence
+>CP004630.2 Saccharomyces cerevisiae YJM554 chromosome II genomic sequence
+>CP004630.2 Saccharomyces cerevisiae YJM554 chromosome II genomic sequence
+>CP004630.2 Saccharomyces cerevisiae YJM554 chromosome II genomic sequence
+>CP004630.2 Saccharomyces cerevisiae YJM554 chromosome II genomic sequence
+>CP004610.2 Saccharomyces cerevisiae YJM1242 chromosome II genomic sequence
+>CP004610.2 Saccharomyces cerevisiae YJM1242 chromosome II genomic sequence
+>CP004610.2 Saccharomyces cerevisiae YJM1242 chromosome II genomic sequence
+>CP004610.2 Saccharomyces cerevisiae YJM1242 chromosome II genomic sequence
+>CP004600.2 Saccharomyces cerevisiae YJM990 chromosome II genomic sequence
+>CP004600.2 Saccharomyces cerevisiae YJM990 chromosome II genomic sequence
+>CP004600.2 Saccharomyces cerevisiae YJM990 chromosome II genomic sequence
+>CP004600.2 Saccharomyces cerevisiae YJM990 chromosome II genomic sequence
+>CP004570.2 Saccharomyces cerevisiae YJM1417 chromosome II genomic sequence
+>CP004570.2 Saccharomyces cerevisiae YJM1417 chromosome II genomic sequence
+>CP004570.2 Saccharomyces cerevisiae YJM1417 chromosome II genomic sequence
+>CP004570.2 Saccharomyces cerevisiae YJM1417 chromosome II genomic sequence
+>CP004100.2 Saccharomyces cerevisiae YJM1078 chromosome II genomic sequence
+>CP004100.2 Saccharomyces cerevisiae YJM1078 chromosome II genomic sequence
+>CP004100.2 Saccharomyces cerevisiae YJM1078 chromosome II genomic sequence
+>CP004100.2 Saccharomyces cerevisiae YJM1078 chromosome II genomic sequence
+>CP014454.1 Saccharomyces cerevisiae strain BCAnc transgenic chromosome 2, complete sequence
+>CP014454.1 Saccharomyces cerevisiae strain BCAnc transgenic chromosome 2, complete sequence
+>CP014454.1 Saccharomyces cerevisiae strain BCAnc transgenic chromosome 2, complete sequence
+>CP014454.1 Saccharomyces cerevisiae strain BCAnc transgenic chromosome 2, complete sequence
+>LN907785.1 Saccharomyces cerevisiae N85 chromosome II, complete genome
+>LN907785.1 Saccharomyces cerevisiae N85 chromosome II, complete genome
+>LN907785.1 Saccharomyces cerevisiae N85 chromosome II, complete genome
+>LN907785.1 Saccharomyces cerevisiae N85 chromosome II, complete genome
+>CP011548.1 Saccharomyces cerevisiae strain ySR127 chromosome II, complete sequence
+>CP011548.1 Saccharomyces cerevisiae strain ySR127 chromosome II, complete sequence
+>CP011548.1 Saccharomyces cerevisiae strain ySR127 chromosome II, complete sequence
+>CP011548.1 Saccharomyces cerevisiae strain ySR127 chromosome II, complete sequence
+>XM_012197781.1 Cryptococcus neoformans var. grubii H99 cytoplasmic protein mRNA
+>XM_012197781.1 Cryptococcus neoformans var. grubii H99 cytoplasmic protein mRNA
+>CP004649.1 Saccharomyces cerevisiae YJM1356 chromosome II genomic sequence
+>CP004649.1 Saccharomyces cerevisiae YJM1356 chromosome II genomic sequence
+>CP004649.1 Saccharomyces cerevisiae YJM1356 chromosome II genomic sequence
+>CP004649.1 Saccharomyces cerevisiae YJM1356 chromosome II genomic sequence
+>CP004639.1 Saccharomyces cerevisiae YJM1304 chromosome II genomic sequence
+>CP004639.1 Saccharomyces cerevisiae YJM1304 chromosome II genomic sequence
+>CP004639.1 Saccharomyces cerevisiae YJM1304 chromosome II genomic sequence
+>CP004639.1 Saccharomyces cerevisiae YJM1304 chromosome II genomic sequence
+>CP004629.1 Saccharomyces cerevisiae YJM541 chromosome II genomic sequence
+>CP004629.1 Saccharomyces cerevisiae YJM541 chromosome II genomic sequence
+>CP004629.1 Saccharomyces cerevisiae YJM541 chromosome II genomic sequence
+>CP004629.1 Saccharomyces cerevisiae YJM541 chromosome II genomic sequence
+>CP004619.1 Saccharomyces cerevisiae YJM270 chromosome II genomic sequence
+>CP004619.1 Saccharomyces cerevisiae YJM270 chromosome II genomic sequence
+>CP004619.1 Saccharomyces cerevisiae YJM270 chromosome II genomic sequence
+>CP004619.1 Saccharomyces cerevisiae YJM270 chromosome II genomic sequence
+>CP004609.1 Saccharomyces cerevisiae YJM1208 chromosome II genomic sequence
+>CP004609.1 Saccharomyces cerevisiae YJM1208 chromosome II genomic sequence
+>CP004609.1 Saccharomyces cerevisiae YJM1208 chromosome II genomic sequence
+>CP004609.1 Saccharomyces cerevisiae YJM1208 chromosome II genomic sequence
+>CP004599.1 Saccharomyces cerevisiae YJM987 chromosome II genomic sequence
+>CP004599.1 Saccharomyces cerevisiae YJM987 chromosome II genomic sequence
+>CP004599.1 Saccharomyces cerevisiae YJM987 chromosome II genomic sequence
+>CP004599.1 Saccharomyces cerevisiae YJM987 chromosome II genomic sequence
+>CP004589.1 Saccharomyces cerevisiae YJM1574 chromosome II genomic sequence
+>CP004589.1 Saccharomyces cerevisiae YJM1574 chromosome II genomic sequence
+>CP004579.1 Saccharomyces cerevisiae YJM1450 chromosome II genomic sequence
+>CP004579.1 Saccharomyces cerevisiae YJM1450 chromosome II genomic sequence
+>CP004579.1 Saccharomyces cerevisiae YJM1450 chromosome II genomic sequence
+>CP004579.1 Saccharomyces cerevisiae YJM1450 chromosome II genomic sequence
+>CP004569.1 Saccharomyces cerevisiae YJM1415 chromosome II genomic sequence
+>CP004569.1 Saccharomyces cerevisiae YJM1415 chromosome II genomic sequence
+>CP004569.1 Saccharomyces cerevisiae YJM1415 chromosome II genomic sequence
+>CP004569.1 Saccharomyces cerevisiae YJM1415 chromosome II genomic sequence
+>CP003823.1 Cryptococcus neoformans var. grubii H99 chromosome 4, complete sequence
+>CP003823.1 Cryptococcus neoformans var. grubii H99 chromosome 4, complete sequence
+>BK006936.2 TPA_inf: Saccharomyces cerevisiae S288C chromosome II, complete sequence
+>BK006936.2 TPA_inf: Saccharomyces cerevisiae S288C chromosome II, complete sequence
+>BK006936.2 TPA_inf: Saccharomyces cerevisiae S288C chromosome II, complete sequence
+>BK006936.2 TPA_inf: Saccharomyces cerevisiae S288C chromosome II, complete sequence
+>FN393060.2 Saccharomyces cerevisiae EC1118 chromosome II, EC1118_1B15 genomic scaffold, whole genome shotgun sequence
+>FN393060.2 Saccharomyces cerevisiae EC1118 chromosome II, EC1118_1B15 genomic scaffold, whole genome shotgun sequence
+>FN393060.2 Saccharomyces cerevisiae EC1118 chromosome II, EC1118_1B15 genomic scaffold, whole genome shotgun sequence
+>FN393060.2 Saccharomyces cerevisiae EC1118 chromosome II, EC1118_1B15 genomic scaffold, whole genome shotgun sequence

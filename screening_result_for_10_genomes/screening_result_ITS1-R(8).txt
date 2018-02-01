@@ -1,0 +1,9 @@
+>XM_767079.1 Cryptococcus neoformans var. neoformans B-3501A hypothetical protein (CNBM0920) partial mRNA
+>XM_767079.1 Cryptococcus neoformans var. neoformans B-3501A hypothetical protein (CNBM0920) partial mRNA
+>AE017353.1 Cryptococcus neoformans var. neoformans JEC21 chromosome 13 sequence
+>AE017353.1 Cryptococcus neoformans var. neoformans JEC21 chromosome 13 sequence
+>XM_568450.1 Cryptococcus neoformans var. neoformans JEC21 hypothetical protein (CNM01060), partial mRNA
+>XM_568450.1 Cryptococcus neoformans var. neoformans JEC21 hypothetical protein (CNM01060), partial mRNA
+>XM_018391923.1 Fusarium oxysporum f. sp. lycopersici 4287 hypothetical protein partial mRNA
+>XM_018391923.1 Fusarium oxysporum f. sp. lycopersici 4287 hypothetical protein partial mRNA
+>XM_018392304.1 Fusarium oxysporum f. sp. lycopersici 4287 hypothetical protein mRNA

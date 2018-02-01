@@ -1,0 +1,4 @@
+>XM_003233492.1 Trichophyton rubrum CBS 118892 glycosyl hydrolase (TERG_05414) mRNA, complete cds
+>XM_003233492.1 Trichophyton rubrum CBS 118892 glycosyl hydrolase (TERG_05414) mRNA, complete cds
+>XM_003234661.1 Trichophyton rubrum CBS 118892 hypothetical protein (TERG_05300) mRNA, complete cds
+>XM_003234661.1 Trichophyton rubrum CBS 118892 hypothetical protein (TERG_05300) mRNA, complete cds

@@ -1,0 +1,54 @@
+>CP022977.1 Saccharomyces cerevisiae strain CEN.PK113-7D chromosome XII, complete sequence
+>CP022977.1 Saccharomyces cerevisiae strain CEN.PK113-7D chromosome XII, complete sequence
+>CP022977.1 Saccharomyces cerevisiae strain CEN.PK113-7D chromosome XII, complete sequence
+>CP022977.1 Saccharomyces cerevisiae strain CEN.PK113-7D chromosome XII, complete sequence
+>CP022977.1 Saccharomyces cerevisiae strain CEN.PK113-7D chromosome XII, complete sequence
+>CP022977.1 Saccharomyces cerevisiae strain CEN.PK113-7D chromosome XII, complete sequence
+>LC317862.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 64661
+>LC317861.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 64544
+>LC317860.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 64539
+>LC317859.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 64392
+>LC317858.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 63831
+>LC317857.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 63295
+>LC317856.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 63294
+>LC317855.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 63293
+>LC317854.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 63292
+>LC317853.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 63290
+>LC317852.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 63289
+>LC317851.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 63288
+>LC317850.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 63287
+>LC317849.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 63286
+>LC317848.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 63285
+>LC317847.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 63284
+>LC317846.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 63283
+>LC317845.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 63282
+>LC317844.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 63281
+>LC317843.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 63144
+>LC317841.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 62927
+>LC317840.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 62869
+>LC317838.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 62785
+>LC317836.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 62783
+>LC317835.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 62782
+>LC317834.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 62781
+>LC317833.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 62780
+>LC317832.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 62779
+>LC317831.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 62778
+>LC317830.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 62777
+>LC317829.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 62776
+>LC317828.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, partial and complete sequence, strain: IFM 62774
+>LC317827.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 62773
+>LC317826.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 62772
+>LC317822.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 62752
+>LC317821.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 62751
+>LC317820.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 62740
+>LC317815.1 Trichophyton rubrum genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 40732
+>LC317755.1 Rhizopus oryzae genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 64520
+>LC317754.1 Rhizopus oryzae genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 62202
+>LC317752.1 Rhizopus oryzae genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 47055
+>LC317561.1 Cryptococcus neoformans genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 64546
+>LC317557.1 Cryptococcus neoformans genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 49119
+>LC317556.1 Cryptococcus neoformans genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 46660
+>LC317555.1 Cryptococcus neoformans genes for 18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA, partial and complete sequence, strain: IFM 5505
+>MG757724.1 Candida albicans isolate 21 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+>MG757715.1 Candida albicans isolate 5 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence
+>MG757714.1 Candida albicans isolate 2 small subunit ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and large subunit ribosomal RNA gene, partial sequence

@@ -1,0 +1,10 @@
+>CP025159.1 Candida albicans strain SC5314-P0 chromosome 2B
+>CP025159.1 Candida albicans strain SC5314-P0 chromosome 2B
+>CP025176.1 Candida albicans strain SC5314-GTH12 chromosome 2B
+>CP025176.1 Candida albicans strain SC5314-GTH12 chromosome 2B
+>CP022329.1 Cryptococcus neoformans var. grubii chromosome 9, complete sequence
+>CP022329.1 Cryptococcus neoformans var. grubii chromosome 9, complete sequence
+>XM_012196305.1 Cryptococcus neoformans var. grubii H99 H/ACA ribonucleoprotein complex subunit 1 mRNA
+>XM_012196305.1 Cryptococcus neoformans var. grubii H99 H/ACA ribonucleoprotein complex subunit 1 mRNA
+>CP003828.1 Cryptococcus neoformans var. grubii H99 chromosome 9, complete sequence
+>CP003828.1 Cryptococcus neoformans var. grubii H99 chromosome 9, complete sequence
