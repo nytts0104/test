@@ -1,3 +1,0 @@
->CP022322.1 Cryptococcus neoformans var. grubii chromosome 2, complete sequence
->XM_012192270.1 Cryptococcus neoformans var. grubii H99 hypothetical protein mRNA
->CP003821.1 Cryptococcus neoformans var. grubii H99 chromosome 2, complete sequence
