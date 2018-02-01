@@ -1,8 +1,0 @@
->XM_018391212.1 Fusarium oxysporum f. sp. lycopersici 4287 hypothetical protein mRNA
->XM_018391212.1 Fusarium oxysporum f. sp. lycopersici 4287 hypothetical protein mRNA
->XM_018391211.1 Fusarium oxysporum f. sp. lycopersici 4287 acetoacetate-CoA ligase mRNA
->XM_018391211.1 Fusarium oxysporum f. sp. lycopersici 4287 acetoacetate-CoA ligase mRNA
->XM_018391210.1 Fusarium oxysporum f. sp. lycopersici 4287 acetoacetate-CoA ligase mRNA
->XM_018391210.1 Fusarium oxysporum f. sp. lycopersici 4287 acetoacetate-CoA ligase mRNA
->XM_018382383.1 Fusarium oxysporum f. sp. lycopersici 4287 hypothetical protein mRNA
->XM_018382383.1 Fusarium oxysporum f. sp. lycopersici 4287 hypothetical protein mRNA
