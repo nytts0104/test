@@ -1,9 +1,0 @@
->KJ017740.1 Fusarium graminearum 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
->JX013947.1 Puccinia helianthi strain NM-1 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosamol RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
->HM467909.1 Puccinia polysora 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
->DQ460725.1 Puccinia graminis f. sp. tritici isolate CDL62ND27C 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
->DQ344520.1 Puccinia graminis isolate 69MN399 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
->AF511073.1 Puccinia allii isolate 8799 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
->AF511074.1 Puccinia allii isolate 8827 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
->FM866350.1 Uncultured Cryptococcus ITS1, 5.8S rRNA gene and ITS2, clone B5-1
->KY781975.1 Fusarium falciforme strain S5NG1 28S ribosomal RNA gene, partial sequence
