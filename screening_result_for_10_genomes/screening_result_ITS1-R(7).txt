@@ -1,4 +1,0 @@
->CP020230.1 Saccharomyces cerevisiae strain UWOPS03-461.4 chromosome VI, complete sequence
->CP004968.2 Saccharomyces cerevisiae YJM1447 chromosome VI sequence
->CP004955.2 Saccharomyces cerevisiae YJM1399 chromosome VI sequence
->CP004961.2 Saccharomyces cerevisiae YJM1418 chromosome VI sequence
